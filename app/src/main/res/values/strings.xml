@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Who wants to be a winner</string>
+    <string name="join_by_code">Войти по коду</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cut_50">50/50</string>
+    <string name="right_for_mistake">Право на ошибку</string>
+    <string name="friend_call">Звонок другу</string>
+    <string name="results_greeting">Ура, Вы прошли квиз!</string>
+    <string name="results_message">Вы набрали 50/100 баллов!</string>
+    <string name="retry">Попробовать снова</string>
+    <string name="return_to_menu">Вернуться в главное меню</string>
+    <string name="quiz_solving">Внимание, вопрос:</string>
+    <string name="results_name">Результаты</string>
+</resources>
